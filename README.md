@@ -15,7 +15,7 @@ This is a text editor that runs in the broweser and functions ofline. It is a si
 Open package.json in terminal and run the code 
 
 <br>
-    npm i
+        npm i
 
 ## License
 
