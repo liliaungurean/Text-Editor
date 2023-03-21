@@ -8,18 +8,28 @@ This is a text editor that runs in the broweser and functions ofline. It is a si
 
 - [Installation](#installation)
 - [Description](#Description)
+- [Credits](#Credits)
 - [License](#license)
 
 ## Installation
 
 Open package.json in terminal and run the code 
-        <br>
-     npm i
+
+<br>
+
+    npm i
 
 ## Deployed Link
 
 https://text-editorpwa1.herokuapp.com/
 
+
+## Credits
+
+https://www.youtube.com/watch?v=WbbAPfDVqfY
+
+https://www.youtube.com/watch?v=dap6yIe1uK4
+ 
 ## License
 
 MIT License
