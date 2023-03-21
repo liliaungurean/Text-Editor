@@ -17,6 +17,10 @@ Open package.json in terminal and run the code
 <br>
         npm i
 
+## Deployed Link
+
+https://text-editorpwa1.herokuapp.com/
+
 ## License
 
 MIT License
